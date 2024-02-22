@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá, eu sou o Tiago Kasprzak Gorri, estudante de Bacharel em Engenharia de Software na PUCPR!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
