@@ -23,10 +23,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio Code](https://cdn.iconscout.com/icon/free/png-256/free-visual-studio-code-3251603-2724650.png)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117);
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Mac](https://www.iconarchive.com/download/i91752/icons8/windows-8/Systems-Mac-Os.ico)&nbsp;
+![Mac](https://img.shields.io/badge/-mac-0D1117?style=for-the-badge&logo=mac&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
