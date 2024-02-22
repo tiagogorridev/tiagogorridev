@@ -1,6 +1,6 @@
 ## Olá, eu sou o Tiago Kasprzak Gorri, estudante de Bacharel em Engenharia de Software na PUCPR!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogorridev&show_icons=true&theme=github_dark&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogorridev&show_icons=true&theme=github_dark&hide_rank=true$pt-br	)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogorridev&layout=donut&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
 
