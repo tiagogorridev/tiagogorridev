@@ -69,8 +69,8 @@
 
 # 🌎 Languages
 
-🇧🇷 Portuguese | Native
-🇺🇸 English | Fluent (C1)
+- Portuguese | Native
+- English | Fluent (C1)
 
 # 📫 Connect With Me
 
