@@ -2,13 +2,13 @@
 
 # 👋 About Me
 
-💻 Full Stack Software Developer at **Wise Group** |
-🎓 Bachelor's Degree in Software Engineering at **PUCPR** (jan 2024 – dez 2027) |
-☁️ AWS Certified Cloud Practitioner |
-🤖 AWS Certified AI Practitioner |
-🔷 Microsoft Certified: Azure Fundamentals |
-🌎 Fluent in English (C1) |
-📍 Curitiba, Paraná, Brazil
+- 💻 Full Stack Software Developer at **Wise Group**
+- 🎓 Bachelor's Degree in Software Engineering at **PUCPR** (2024–2027)
+- ☁️ AWS Certified Cloud Practitioner
+- 🤖 AWS Certified AI Practitioner
+- 🔷 Microsoft Certified: Azure Fundamentals
+- 🌎 Fluent in English (C1)
+- 📍 Curitiba, Paraná, Brazil
 
 # 🚀 Tech Stack
 
